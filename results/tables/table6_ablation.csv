@@ -1,0 +1,4 @@
+Setting,Macro_F1,Dropout_recall
+"LR, no balancing",0.620,0.748
+"LR, balanced",0.661,0.666
+"LR, WITH 2nd-sem (leakage, comparison only)",0.698,0.707

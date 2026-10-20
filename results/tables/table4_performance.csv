@@ -1,0 +1,4 @@
+Model,Accuracy,Macro_F1,Recall_Dropout,Recall_Enrolled,Recall_Graduate
+LogisticRegression,0.705 ± 0.004,0.661,0.666,0.548,0.787
+DecisionTree,0.712 ± 0.008,0.639,0.701,0.359,0.846
+RandomForest,0.734 ± 0.007,0.673,0.722,0.438,0.849

@@ -1,0 +1,3 @@
+Model,Protected,TPR (g=1),TPR (g=0),EOD,DPD
+RandomForest,Scholarship holder,0.433,0.752,-0.319,-0.282
+RandomForest,Gender,0.762,0.683,+0.078,+0.211
