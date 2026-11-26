@@ -28,10 +28,6 @@ DATA_PATH    = os.path.join("data", "data.csv")
 TARGET       = "Target"
 PROTECTED    = ["Scholarship holder", "Gender"]
 
-
-# ---------------------------------------------------------------
-# Header repair: this file has line 0 = '"col1;col2;...;col37"'
-# ---------------------------------------------------------------
 def parse_raw(path):
     with open(path, "r", encoding="utf-8-sig") as f:
         lines = f.read().splitlines()
