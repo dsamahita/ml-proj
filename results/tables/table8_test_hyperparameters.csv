@@ -1,0 +1,4 @@
+Model,Best Parameters,Training CV Macro F1
+Logistic Regression,"{'clf__C': 10, 'clf__class_weight': 'balanced'}",0.6669871840667103
+Decision Tree,"{'clf__class_weight': 'balanced', 'clf__max_depth': 8, 'clf__min_samples_leaf': 50}",0.6296545172164039
+Random Forest,"{'clf__class_weight': 'balanced', 'clf__max_depth': None, 'clf__n_estimators': 100}",0.6859276403411344
